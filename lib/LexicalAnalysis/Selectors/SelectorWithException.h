@@ -15,7 +15,7 @@ namespace LexicalAnalysis::Selectors {
         virtual regex getExceptionRegex() = 0;
 
     private:
-        void CheckOnException(stringstream soourceProgram);
+        void checkOnException(stringstream soourceProgram);
     };
 }
 #endif //COMPILER_SELECTORWITHEXCEPTION_H

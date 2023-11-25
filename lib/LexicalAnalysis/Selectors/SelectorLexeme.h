@@ -2,13 +2,13 @@
 #ifndef COMPILER_SELECTORLEXEME_H
 #define COMPILER_SELECTORLEXEME_H
 
-
 namespace LexicalAnalysis::Selectors {
 
 #include <sstream>
 #include <string>
 #include <vector>
 #include <regex>
+#include <iosfwd>
 #include "../Lexeme.h"
 
     using namespace std;
