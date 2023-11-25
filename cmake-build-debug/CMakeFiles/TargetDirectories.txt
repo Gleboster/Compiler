@@ -1,0 +1,9 @@
+C:/Users/glebl/CLionProjects/Compiler/cmake-build-debug/CMakeFiles/Compiler.dir
+C:/Users/glebl/CLionProjects/Compiler/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/glebl/CLionProjects/Compiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/glebl/CLionProjects/Compiler/cmake-build-debug/lib/LexicalAnalysis/CMakeFiles/LexicalAnalysis_lib.dir
+C:/Users/glebl/CLionProjects/Compiler/cmake-build-debug/lib/LexicalAnalysis/CMakeFiles/edit_cache.dir
+C:/Users/glebl/CLionProjects/Compiler/cmake-build-debug/lib/LexicalAnalysis/CMakeFiles/rebuild_cache.dir
+C:/Users/glebl/CLionProjects/Compiler/cmake-build-debug/lib/GeneralType/CMakeFiles/GeneralType_lib.dir
+C:/Users/glebl/CLionProjects/Compiler/cmake-build-debug/lib/GeneralType/CMakeFiles/edit_cache.dir
+C:/Users/glebl/CLionProjects/Compiler/cmake-build-debug/lib/GeneralType/CMakeFiles/rebuild_cache.dir
